@@ -35,7 +35,7 @@ Open **`IAS_Image_Stgrpy.ipynb`** or **`TextHider.ipynb`** and follow the instru
 
 ## **👥 Members**  
 - **Isaiah Daniel Lising**  
-- **Mark Real**  
+- **Daniel Mark Real**  
 - **Azer John Valdemoro**  
 - **John Omar Girado**  
 
