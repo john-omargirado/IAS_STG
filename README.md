@@ -13,7 +13,7 @@ Steganography is a technique for concealing secret messages within digital media
 
 ## **📂 Project Structure**  
 ```
-📁 IAS_Image_Stgrpy.ipynb  # Notebook for image steganography
+📁 IAS_Imge_Stgrpy.ipynb  # Notebook for image steganography
 📁 TextHider.ipynb  # Notebook for text steganography
 📄 README.md  # Project documentation
 ```
